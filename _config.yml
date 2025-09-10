@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haokun Wen's Homepage"
+title                    : "Xiaolin Chen's Homepage"
 title_separator          : "-"
-name                     : &name "Haokun Wen"
-description              : &description "Haokun Wen's Homepage"
-url                      : https://haokunwen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaolin Chen"
+description              : &description "Xiaolin Chen's Homepage"
+url                      : https://xiaolinchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haokunwen/haokunwen.github.io"
+repository               : "XiaolinChen-XL/xiaolinchen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haokun Wen / 温皓琨"
-  avatar           : "whk.jpg"
-  bio              : "CS Ph.D. Candidate from HITSZ"
+  name             : "Xiaolin Chen / 陈潇琳"
+  avatar           : "cxl.jpg"
+  bio              : "Research Fellow @NUS"
   location         : # "HIT Campus of University Town of Shenzhen, Shenzhen, China "
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.cz/citations?hl=zh-CN&authuser=1&user=_fnIwU8AAAAJ"
-  email            : "haokunwen@outlook.com"
+  googlescholar    : "https://scholar.google.co.in/citations?hl=zh-CN&user=3g0B6Q0AAAAJ"
+  email            : "cxlicd@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "haokunwen"
+  github           : "XiaolinChen-XL"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0633-3722"
+  orcid            : "https://orcid.org/0000-0003-4638-0603"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
