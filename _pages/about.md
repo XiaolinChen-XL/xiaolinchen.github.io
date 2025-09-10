@@ -9,7 +9,7 @@ redirect_from:
 ---
 Short Bio
 ---   
-I'm currently a Ph.D. student in the [School of Computer Science and Technology](http://cs.hitsz.edu.cn/), [Harbin Institute of Technology (Shenzhen)](https://www.hitsz.edu.cn/index.html), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Xuemeng Song](https://xuemengsong.github.io/). I am also a joint Ph.D. student in the [School of Data Science](https://www.sdsc.cityu.edu.hk/) at [City University of Hong Kong](https://www.cityu.edu.hk/), participating in the CityU-HIT Joint PhD Programme under the supervision of Prof. [Xiangyu Zhao](https://www.cityu.edu.hk/). My research interests include multimedia computing and information retrieval.
+I am currently a Postdoctoral Research Fellow at the [National University of Singapore (NUS)(https://nus.edu.sg/)], under the supervision of Prof. [Wynne Hsu](https://www.comp.nus.edu.sg/~whsu/) and Prof. [Mong Li Lee](https://www.comp.nus.edu.sg/~leeml/). I received my Ph.D. degree at [Shandong University](https://www.sdu.edu.cn/index.htm), under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html) and Prof. [Xuemeng Song](https://xuemengsong.github.io/). From November 2022 to December 2023, I was a visiting Ph.D. student at the [NExT++](https://www.nextcenter.org/) Lab, NUS, supervised by Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/) and Prof. [Yinwei Wei](https://weiyinwei.github.io/). My research interests lie primarily in the areas of multimedia computing and information retrieval.
 
 Education
 ---
