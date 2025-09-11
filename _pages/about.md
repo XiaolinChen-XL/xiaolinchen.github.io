@@ -19,7 +19,7 @@ Education
           </a>     
   </div>  
   
-- **National University of Singapore** Aug.2023 — Aug.2024        
+- **National University of Singapore** Nov.2023 — Dec.2024        
   Visiting Ph.D. Student in the School of Computing, NExT++ Lab    
   Supervisor: Prof. [Tat-Seng Chua](https://www.comp.nus.edu.sg/cs/people/chuats/) and Prof. [Yinwei Wei](https://weiyinwei.github.io/).    
 
